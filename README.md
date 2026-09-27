@@ -20,7 +20,7 @@ The goal of this project is to build an AI Data Analyst that can:
 - Plotly
 - Streamlit
 - Ollama
-- Qwen3
+- Qwen 3
 
 ## Project Status
 
