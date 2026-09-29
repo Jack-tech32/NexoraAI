@@ -8,7 +8,7 @@ The goal of this project is to build an AI Data Analyst that can:
 
 - Profile uploaded datasets
 - Analyze data using Python and Pandas
-- Answer natural-language questions
+- Answer natural language questions 
 - Generate visualizations
 - Explain analysis results using a local LLM
 
